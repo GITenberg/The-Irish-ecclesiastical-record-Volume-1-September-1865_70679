@@ -1,0 +1,26 @@
+_repo: The-Irish-ecclesiastical-record-Volume-1-September-1865_70679
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clergymen, Society of
+    gutenberg_agent_id: '55862'
+    url: http://www.gutenberg.org/2009/agents/55862
+description: ''
+gutenberg_issued: '2023-04-30'
+identifiers:
+  gutenberg: '70679'
+language: en
+pgterms:marc905: 20070508222519clergymen
+pgterms:marc906: '1865'
+pgterms:marc907: IE
+production_note: Carol Brown, Bryan Ness and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aIreland :$bJohn F. Fowler, $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Irish ecclesiastical record, Volume 1, September 1865
+url: http://www.gutenberg.org/ebooks/70679
