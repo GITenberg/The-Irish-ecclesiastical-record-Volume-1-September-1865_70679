@@ -1,11 +1,16 @@
 _repo: The-Irish-ecclesiastical-record-Volume-1-September-1865_70679
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70679-h/images/cover.jpg
 creator:
   author:
     agent_name: Clergymen, Society of
     gutenberg_agent_id: '55862'
     url: http://www.gutenberg.org/2009/agents/55862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70679#The-Irish-ecclesiastical-record-Volume-1-September-1865
 gutenberg_issued: '2023-04-30'
 identifiers:
   gutenberg: '70679'
